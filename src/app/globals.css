@@ -42,3 +42,11 @@ h6 {
 a {
   @apply hover:text-secondary
 }
+
+button {
+  @apply font-primary p-1 rounded-md uppercase font-medium;
+}
+
+input {
+  @apply text-highlight
+}
